@@ -1,3 +1,4 @@
+
 ☿ MERCURY PROTOCOL™
 
 INTERNATIONAL CANONICAL SYSTEM / FOUNDATION DESCRIPTION
@@ -170,8 +171,4 @@ And the international-level one-line version:
 🜁 AIR · 🜄 WATER · 🜃 EARTH · 🜂 FIRE · 🜔 SALT
 
 ☿ MERCURY PROTOCOL™ — THE MODEL MAY SPEAK. MERCURY DECIDES WHAT BECOMES REAL.
-
-
-
-☿ MERCURY PROTOCOL ☿ — model-independent deterministic intelligence: 🜁 AIR directs intent/authority; 🜄 WATER preserves continuity/memory; 🜃 EARTH grounds evidence/structure; 🜂 FIRE resolves faults/contradictions; 🜔 SALT seals identity, commits state, and releases artifacts. Models: optional. Authority: zero.
 

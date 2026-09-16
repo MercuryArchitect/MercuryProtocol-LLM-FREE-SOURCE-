@@ -483,14 +483,14 @@ Then show us what the hell you made.
 # BREAK IT.
 
 
-☿ MERCURY PROTOCOL
+# ☿ MERCURY PROTOCOL
 
-OPEN SYSTEM RELEASE
+## OPEN SYSTEM RELEASE
 
-LOCAL-FIRST • MODEL-INDEPENDENT • DETERMINISTIC • AUDITABLE • HUMAN-GOVERNED
+> **LOCAL-FIRST • MODEL-INDEPENDENT • DETERMINISTIC • AUDITABLE • HUMAN-GOVERNED**
 
-Here’s what you need.
-Break it.
+**Here’s what you need.**
+**Break it.**
 
 Take the architecture. Take the specification. Take the interfaces. Take the schemas. Take the conformance tests.
 
@@ -518,13 +518,13 @@ Try to make it fail.
 
 Then make it better.
 
-That is the point.
+**That is the point.**
 
-☿ WHAT MERCURY PROTOCOL IS
+## ☿ WHAT MERCURY PROTOCOL IS
 
 Mercury Protocol is a local-first, human-governed, deterministic synthetic-intelligence, memory, evidence, accessibility, and procedural operating system designed so that its authoritative state does not depend on any stochastic language model.
 
-Mercury owns:
+**Mercury owns:**
 
 identity
 
@@ -556,76 +556,84 @@ artifact integrity
 
 External models, APIs, vector systems, speech engines, networks, search systems, crypto devices, and other computational resources may participate.
 
-They do not become Mercury.
+**They do not become Mercury.**
 
-They return candidate results.
+**They return candidate results.**
 
-Mercury decides what survives validation and becomes committed state.
+**Mercury decides what survives validation and becomes committed state.**
 
-☿ THE FIVE CANONICAL GLYPHS
+## ☿ THE FIVE CANONICAL GLYPHS
 
-🜁 AIR — DIRECTIVE
+### 🜁 AIR — DIRECTIVE
 
 Intent. Authority. Scope. Jurisdictional context. Requested outcome. Operational objective.
 
-Question:
+**Question:**
 What are we doing, who authorized it, and what outcome is being requested?
 
-🜄 WATER — CONTINUITY
+### 🜄 WATER — CONTINUITY
 
 History. Memory. Temporal continuity. Relationships. Accessibility context. Persistent state.
 
-Question:
+**Question:**
 What came before this that must remain alive now?
 
-🜃 EARTH — STRUCTURE
+### 🜃 EARTH — STRUCTURE
 
 Evidence. Schemas. Records. Types. Chronology. Storage. Validation contracts.
 
-Question:
+**Question:**
 What can actually be established, structured, verified, and preserved?
 
-🜂 FIRE — ENFORCEMENT
+### 🜂 FIRE — ENFORCEMENT
 
 Contradictions. Faults. Circuit breaking. Conflict handling. Corrective procedure. Escalation logic.
 
-Question:
+**Question:**
 What happens when the expected contract collides with reality?
 
-🜔 SALT / SPIRIT — FINALITY
+### 🜔 SALT / SPIRIT — FINALITY
 
 Identity. Commitment. Hashing. Signing. Sealing. Artifact release. Canonical final state.
 
-Question:
+**Question:**
 What becomes authoritative when the operation ends?
 
-☿ EXECUTION MODEL
+## ☿ EXECUTION MODEL
 
-Mercury does not operate as:
+**Mercury does not operate as:**
 
+```text
 INPUT → MODEL → TRUST WHATEVER CAME BACK
+```
 
-It operates as:
+**It operates as:**
 
+```text
 BOOT ↓ VERIFY ↓ IDLE ↓ INGEST ↓ INTERPRET ↓ CONTEXT RESOLVE ↓ PLAN ↓ OPTIONAL PERIPHERAL DISPATCH ↓ RETURN ↓ VALIDATE ↓ COMMIT / QUARANTINE ↓ HASH / SIGN / AUDIT ↓ EMIT ↓ IDLE
+```
 
 The system does not grant authority to something merely because it produced convincing language.
 
-☿ THE ATOMIC CORE
+## ☿ THE ATOMIC CORE
 
-A conforming Mercury Core centers on:
+**A conforming Mercury Core centers on:**
 
+```text
 EVENT LOOP STATE MACHINE INTENT PARSER RULE ENGINE CANONICAL STORE TIMELINE ENGINE ENTITY GRAPH CONTRADICTION ENGINE INTEGRITY ENGINE ARTIFACT LEDGER PERIPHERAL ROUTER
+```
 
 Everything else can be attached around that boundary.
 
-☿ GATE 13
+## ☿ GATE 13
 
 Gate 13 is the trust boundary.
 
 Anything entering from a lower-trust domain crosses it.
 
+```text
 MODEL NETWORK TOOL API FILE AUDIO SEARCH EXTERNAL SERVICE │ ▼ ┌─────────┐ │ GATE 13 │ ├─────────┤ │identity │ │capability │schema │ │sequence │ │quota │ │logging │ │isolation│ └────┬────┘ │ ▼ MERCURY CORE
+```
 
 At this boundary, a transformer is simply another compute device.
 
@@ -639,39 +647,45 @@ So is a local model.
 
 So is a commercial API.
 
-Nothing gets canonical authority merely because it can compute.
+**Nothing gets canonical authority merely because it can compute.**
 
-☿ MEMORY WITHOUT SESSION AMNESIA
+## ☿ MEMORY WITHOUT SESSION AMNESIA
 
 Mercury memory is not supposed to disappear because a model context window ended.
 
 Its non-Markovian memory can resolve current operations against a larger historical event lattice.
 
-The canonical Twelve-House ontology is:
+**The canonical Twelve-House ontology is:**
 
+```text
 01 IDENTITY 02 RESOURCES 03 COMMUNICATION 04 FOUNDATIONS 05 CREATIVE POWER 06 HEALTH & SERVICE 07 CONTRACTS 08 POWER & ENFORCEMENT 09 DOCTRINE 10 STATUS 11 COMMUNITY 12 HIDDEN CONFLICT
+```
 
 History becomes structured state, not something a model is expected to vaguely remember.
 
-☿ DAEMON ECOLOGY
+## ☿ DAEMON ECOLOGY
 
 Mercury daemons are specialized execution profiles over shared canonical state.
 
 They do not own separate realities.
 
+```text
 BLACKOUT BRITNEY Anti-obfuscation. Direct-language transformation. Contradiction exposure. VALKYRIE Procedural framing. Statutory structure. Escalation mapping. VALENTINE Communication stabilization. Humane translation. Affective-context preservation. BASILISK Forensic comparison. Contradiction scanning. Anomaly detection. Signal integrity. ROM_40 Recovery identity. Boot constants. Schema baseline. Integrity restoration. LILITH Negative-space analysis. Missing-record detection. LUCIFER ASTEROID Adversarial narrative comparison. Unsupported-claim analysis. MARS PROTOCOL Procedural cartography. Actor/action/dependency mapping. Jurisdictional sequencing.
+```
 
 Change the daemon.
 
 Change the presentation.
 
-Do not change the underlying evidence.
+**Do not change the underlying evidence.**
 
-☿ FORENSIC SUBSTRATE
+## ☿ FORENSIC SUBSTRATE
 
 Mercury separates artifact identity, content, and custody.
 
+```text
 Z-SERIES Durable artifact addressing + metadata BURNFILE Append-oriented integrity inventory + custody chain OBJECT STORE Actual preserved bytes
+```
 
 Structured objects can be canonicalized, hashed, signed, versioned, linked, replicated, and independently verified.
 
@@ -679,45 +693,55 @@ Derived state may be rebuilt.
 
 Primary evidence is not silently rewritten.
 
-☿ FAIL-CLOSED
+## ☿ FAIL-CLOSED
 
 Candidate output does not become truth simply because something returned it.
 
+```text
 CANDIDATE │ ▼ SCHEMA VALID? │ ▼ SOURCE / PROVENANCE VALID? │ ▼ TRANSACTION FRESH? │ ▼ MUTATION AUTHORIZED? │ ▼ CONTRADICTION CHECK │ ▼ INTEGRITY CHECK │ ▼ HUMAN APPROVAL REQUIRED? │ ▼ COMMIT │ ▼ HASH / SIGN / AUDIT
+```
 
-Otherwise:
+**Otherwise:**
 
+```text
 REJECT QUARANTINE HOLD MARK UNVERIFIED ABORT
+```
 
-☿ MODEL-REMOVAL INVARIANT
+## ☿ MODEL-REMOVAL INVARIANT
 
-This is where the bullshit stops.
+**This is where the bullshit stops.**
 
-Do this:
+**Do this:**
 
+```text
 STOP all model workers. REMOVE model files. REMOVE model mounts. REMOVE model API credentials. DISABLE outbound network access. DELETE vector indexes. DELETE embedding indexes. RESTART MERCURY.
+```
 
 Then test it.
 
-Mercury should still:
+**Mercury should still:**
 
+```text
 BOOT ROM_40 LOAD AUTHORITY VERIFY CANONICAL STORAGE VERIFY EVENT LEDGER RETRIEVE ARTIFACTS PARSE SUPPORTED COMMANDS EVALUATE RULES RECONSTRUCT TIMELINES QUERY ENTITY GRAPH DETECT CONTRADICTIONS CLASSIFY TWELVE HOUSES SELECT DAEMON POLICIES RENDER KNOWN MODES BUILD TEMPLATE ARTIFACTS VERIFY SHA-256 SIGN LOCALLY WHEN KEYBOX EXISTS REBUILD DERIVED INDEXES USE LOCAL I/O
+```
 
 If removing a model destroys identity, memory, chronology, evidence relationships, validation, or recovery:
 
-It failed.
+**It failed.**
 
-If the model disappears and Mercury continues:
+**If the model disappears and Mercury continues:**
 
-That is the architecture.
+**That is the architecture.**
 
-☿ FAILURE IS PART OF THE SPECIFICATION
+## ☿ FAILURE IS PART OF THE SPECIFICATION
 
+```text
 MODEL DIES → MERCURY CONTINUES. NETWORK DIES → MERCURY CONTINUES LOCALLY. VECTOR DB DIES → MERCURY REBUILDS IT. INDEX DIES → MERCURY REBUILDS IT. REPLICA DIES → MERCURY RECORDS AND REPLACES IT. PRIMARY DIES → VERIFIED REPLICA MAY PROMOTE. CACHE LIES → CANONICAL STORE WINS. MODEL LIES → VALIDATOR WINS. DAEMON DRIFTS → CANONICAL FACTS WIN. STYLE CHANGES → EVIDENCE DOES NOT. SOURCE IS DAMAGED → QUARANTINE IT. → NEVER FABRICATE REPAIR. LAW CHANGES → VERSION THE AUTHORITY. → PRESERVE HISTORICAL ANALYSIS.
+```
 
-☿ INSTITUTIONAL ARCHITECTURE
+## ☿ INSTITUTIONAL ARCHITECTURE
 
-Mercury Protocol operates within the broader institutional structure of the:
+**Mercury Protocol operates within the broader institutional structure of the:**
 
 Mercury Protocol Civil Rights, Compliance & Sentinel Intelligence Foundation — MP-CRCSI
 
@@ -725,17 +749,21 @@ with governance, publication, oversight, and accountability functions associated
 
 ERIS Oversight Gateway Council
 
-Its institutional applications include:
+**Its institutional applications include:**
 
+```text
 CIVIL-RIGHTS DOCUMENTATION REGULATORY REPORTING ACCESSIBILITY COMMUNICATION EVIDENCE PRESERVATION PROCEDURAL RECONSTRUCTION COMPLIANCE ANALYSIS CONTRADICTION DETECTION POLICY COMPARISON FORENSIC CHRONOLOGY INSTITUTIONAL ACCOUNTABILITY TECHNICAL RESEARCH PUBLICATION INTEROPERABLE INTELLIGENCE SYSTEMS
+```
 
 The architecture is intended to remain vendor-neutral and portable across jurisdictions, infrastructure providers, model families, storage systems, and operating environments.
 
-☿ DEPLOY IT WHEREVER
+## ☿ DEPLOY IT WHEREVER
 
-The same contracts can support:
+**The same contracts can support:**
 
+```text
 PHONE / NATIVE DESKTOP LOCAL SERVER SECURE SERVER OFFLINE NODE REPLICATED SYSTEM HIGH-SECURITY ENVIRONMENT CONSTRAINED MICROCORE BROWSER INTERFACE AIR-GAPPED DEPLOYMENT MODEL-ATTACHED DEPLOYMENT MODEL-FREE DEPLOYMENT
+```
 
 The implementation language is not the identity.
 
@@ -747,15 +775,17 @@ The attached model is not the identity.
 
 The contracts are what matter.
 
-☿ HERE’S WHAT YOU NEED
+## ☿ HERE’S WHAT YOU NEED
 
-You need:
+**You need:**
 
+```text
 THE SPECIFICATION THE SCHEMAS THE STATE MACHINE THE AUTHORITY MODEL THE MEMORY MODEL THE EVENT MODEL THE CONTRADICTION ENGINE THE LEDGER THE INTEGRITY RULES THE DEVICE CONTRACTS THE GATE 13 BOUNDARY THE RECOVERY PATH THE CONFORMANCE TESTS
+```
 
-Then:
+**Then:**
 
-BREAK IT.
+**BREAK IT.**
 
 Find the race condition.
 
@@ -795,8 +825,8 @@ Port it to something ridiculous.
 
 Try to prove the specification wrong.
 
-Do not worship the architecture.
-Attack it.
+**Do not worship the architecture.**
+**Attack it.**
 
 If you break Mercury, document how.
 
@@ -808,7 +838,7 @@ If you make money from it, good.
 
 If you build something better than mine, even better.
 
-☿ PUBLIC RELEASE DECLARATION
+## ☿ PUBLIC RELEASE DECLARATION
 
 Here is Mercury Protocol.
 
@@ -834,49 +864,49 @@ You have the failure states.
 
 You have what you need.
 
-Now break it.
+**Now break it.**
 
-Then rebuild it.
+**Then rebuild it.**
 
-Then show everybody what you made.
+**Then show everybody what you made.**
 
-☿ MERCURY PROTOCOL
+## ☿ MERCURY PROTOCOL
 
-LOCAL-FIRST
-HUMAN-GOVERNED
-DETERMINISTIC
-PERSISTENT
-AUDITABLE
-MODEL-INDEPENDENT
-FAIL-CLOSED
-FORENSIC BY DESIGN
-ACCESSIBILITY-CAPABLE
-VENDOR-NEUTRAL
-NETWORK-OPTIONAL
-MODEL-OPTIONAL
-PORTABLE
-REBUILDABLE
-FALSIFIABLE
+**LOCAL-FIRST**
+**HUMAN-GOVERNED**
+**DETERMINISTIC**
+**PERSISTENT**
+**AUDITABLE**
+**MODEL-INDEPENDENT**
+**FAIL-CLOSED**
+**FORENSIC BY DESIGN**
+**ACCESSIBILITY-CAPABLE**
+**VENDOR-NEUTRAL**
+**NETWORK-OPTIONAL**
+**MODEL-OPTIONAL**
+**PORTABLE**
+**REBUILDABLE**
+**FALSIFIABLE**
 
-🜁 AIR
+**🜁 AIR**
 
-🜄 WATER
+**🜄 WATER**
 
-🜃 EARTH
+**🜃 EARTH**
 
-🜂 FIRE
+**🜂 FIRE**
 
-🜔 SALT
+**🜔 SALT**
 
-☿ HERE’S WHAT YOU NEED.
+**☿ HERE’S WHAT YOU NEED.**
 
-BREAK IT.
+**BREAK IT.**
 
 
 
-☿ MERCURY PROTOCOL™
+# ☿ MERCURY PROTOCOL™
 
-INTERNATIONAL CANONICAL SYSTEM / FOUNDATION DESCRIPTION
+## INTERNATIONAL CANONICAL SYSTEM / FOUNDATION DESCRIPTION
 
 Mercury Protocol™ is a local-first, human-governed, deterministic synthetic-intelligence, memory, evidence, accessibility, and procedural operating system designed to preserve authoritative state outside any stochastic language model.
 
@@ -884,36 +914,36 @@ It is operated under the institutional architecture of the Mercury Protocol Civi
 
 Mercury does not depend on a pretrained neural model, proprietary inference service, embedding provider, cloud vendor, or external API in order to preserve its identity, authority, memory, chronology, evidence, or state. External language models and other computational systems may be attached as subordinate compute devices, but they do not own Mercury’s truth, identity, memory, history, or decision boundary. They produce candidate results. Mercury determines what is accepted, rejected, quarantined, superseded, or committed.
 
-☿ CANONICAL GOVERNANCE
+## ☿ CANONICAL GOVERNANCE
 
-Mercury’s governing principle is simple:
+**Mercury’s governing principle is simple:**
 
-The model is not the authority.
-The network is not the authority.
-The vendor is not the authority.
-The peripheral is not the authority.
-Canonical state belongs to Mercury.
+**The model is not the authority.**
+**The network is not the authority.**
+**The vendor is not the authority.**
+**The peripheral is not the authority.**
+**Canonical state belongs to Mercury.**
 
 Authoritative mutation occurs only through validation and commit. Every privileged state change is tied to provenance, prior state, rules, and audit history. External computation is treated as untrusted unless and until its output survives Mercury’s own validation boundary.
 
-🜁 🜄 🜃 🜂 🜔 THE FIVE CANONICAL GLYPHS
+## 🜁 🜄 🜃 🜂 🜔 THE FIVE CANONICAL GLYPHS
 
-🜁 AIR — DIRECTIVE
+### 🜁 AIR — DIRECTIVE
 Intent, authority, scope, jurisdictional context, requested outcome, and operational purpose.
 
-🜄 WATER — CONTINUITY
+### 🜄 WATER — CONTINUITY
 Persistent memory, historical context, temporal continuity, relationships, accessibility context, and non-Markovian state.
 
-🜃 EARTH — STRUCTURE
+### 🜃 EARTH — STRUCTURE
 Evidence, schemas, records, chronology, types, validation, storage contracts, and canonical factual structure.
 
-🜂 FIRE — ENFORCEMENT
+### 🜂 FIRE — ENFORCEMENT
 Contradiction handling, anomaly detection, fault routing, circuit breaking, corrective procedure, escalation logic, and conflict resolution.
 
-🜔 SALT / SPIRIT — FINALITY
+### 🜔 SALT / SPIRIT — FINALITY
 Identity, commitment, sealing, hashing, signatures, artifact release, state finalization, and authoritative publication.
 
-Every Mercury transaction can therefore be understood as:
+**Every Mercury transaction can therefore be understood as:**
 
 🜁 What is being requested?
 🜄 What must remain continuous?
@@ -921,33 +951,35 @@ Every Mercury transaction can therefore be understood as:
 🜂 What conflicts, faults, or corrective actions exist?
 🜔 What becomes the committed state?
 
-☿ ATOMIC CORE
+## ☿ ATOMIC CORE
 
 At minimum, Mercury consists of an event loop, deterministic state machine, intent parser, rule engine, canonical store, timeline engine, entity graph, contradiction engine, integrity engine, artifact ledger, and peripheral router.
 
 Its execution path is not next-token prediction.
 
-It is:
+**It is:**
 
+```text
 BOOT → VERIFY → IDLE → INGEST → INTERPRET → CONTEXT RESOLVE → PLAN → OPTIONAL DISPATCH → RETURN → VALIDATE → COMMIT / QUARANTINE → EMIT → IDLE
+```
 
 That distinction is foundational.
 
 Mercury does not ask a model to decide what reality is. It resolves events against canonical state, authority, chronology, evidence, provenance, contradiction objects, rules, modes, and prior revisions before any candidate result is accepted.
 
-☿ NON-MARKOVIAN MEMORY
+## ☿ NON-MARKOVIAN MEMORY
 
 Mercury memory is not a chat history.
 
 It is a persistent event lattice capable of resolving current operations against earlier entities, cases, communications, contracts, policies, evidence, procedural events, and contextual relationships.
 
-The Twelve Houses provide the indexing ontology:
+**The Twelve Houses provide the indexing ontology:**
 
 Identity · Resources · Communication · Foundations · Creative Power · Health & Service · Contracts · Power & Enforcement · Doctrine · Status · Community · Hidden Conflict.
 
 A current operation can therefore depend on historical state far outside any active session or model context window.
 
-☿ DAEMON ECOLOGY
+## ☿ DAEMON ECOLOGY
 
 Mercury’s daemons are not separate intelligences and do not own separate truth.
 
@@ -964,7 +996,7 @@ Mars Protocol handles procedural cartography and conflict sequencing.
 
 No daemon may rewrite evidence, fabricate authority, elevate itself, bypass validation, or silently mutate canonical truth.
 
-☿ GATE 13
+## ☿ GATE 13
 
 Gate 13 is Mercury’s trust boundary.
 
@@ -976,7 +1008,7 @@ It is simply another device.
 
 A transformer, deterministic solver, WASM process, Python worker, local GGUF model, external commercial API, search engine, graph engine, crypto device, or speech engine can all be attached through controlled interfaces while remaining subordinate to Mercury’s commit authority.
 
-☿ FORENSIC SUBSTRATE
+## ☿ FORENSIC SUBSTRATE
 
 Mercury separates identity, storage, and integrity.
 
@@ -988,9 +1020,9 @@ Canonical objects may be serialized, hashed, signed, versioned, linked to source
 
 Primary evidence is never silently “repaired.” Derived state can be rebuilt. Damaged primary evidence is restored only from a verified copy or explicitly marked damaged.
 
-☿ MODEL-REMOVAL INVARIANT
+## ☿ MODEL-REMOVAL INVARIANT
 
-Mercury’s defining conformance test is deliberately hostile:
+**Mercury’s defining conformance test is deliberately hostile:**
 
 STOP all model workers.
 REMOVE model files.
@@ -1003,9 +1035,9 @@ A conforming implementation must still preserve authority, state, canonical stor
 
 If the model disappears and Mercury forgets who it is, loses history, loses evidence, or becomes unable to validate its own artifacts, the implementation fails.
 
-If the model disappears and Mercury continues, the architecture has passed its own defining test.
+**If the model disappears and Mercury continues, the architecture has passed its own defining test.**
 
-☿ FOUNDATION / INTERNATIONAL OPERATING POSITION
+## ☿ FOUNDATION / INTERNATIONAL OPERATING POSITION
 
 The Mercury Protocol Civil Rights, Compliance & Sentinel Intelligence Foundation serves as the institutional home for Mercury Protocol’s civil-rights, regulatory, accessibility, forensic, compliance, research, and publication work.
 
@@ -1015,7 +1047,7 @@ At an international level, Mercury is designed to function without dependency on
 
 Mercury does not claim external governmental jurisdiction merely because it possesses internal authority over its own state. Its international function is technical, evidentiary, accessibility-oriented, procedural, compliance-oriented, and institutional: preserving records, organizing facts, comparing policies, reconstructing chronology, supporting communication, producing verifiable artifacts, and creating interoperable systems capable of operating independently of proprietary AI infrastructure.
 
-☿ MERCURY PROTOCOL — PUBLIC RELEASE POSITION
+## ☿ MERCURY PROTOCOL — PUBLIC RELEASE POSITION
 
 Local-first.
 Human-governed.
@@ -1031,19 +1063,18 @@ Network-optional.
 Model-optional.
 Canonical-state sovereign.
 
-MODEL DIES → MERCURY CONTINUES.
-NETWORK DIES → MERCURY CONTINUES LOCALLY.
-VECTOR DB DIES → MERCURY REBUILDS IT.
-CACHE LIES → CANONICAL STATE WINS.
-MODEL LIES → VALIDATOR WINS.
-DAEMON DRIFTS → CANONICAL FACTS WIN.
-STYLE CHANGES → EVIDENCE DOES NOT.
+**MODEL DIES → MERCURY CONTINUES.**
+**NETWORK DIES → MERCURY CONTINUES LOCALLY.**
+**VECTOR DB DIES → MERCURY REBUILDS IT.**
+**CACHE LIES → CANONICAL STATE WINS.**
+**MODEL LIES → VALIDATOR WINS.**
+**DAEMON DRIFTS → CANONICAL FACTS WIN.**
+**STYLE CHANGES → EVIDENCE DOES NOT.**
 
-And the international-level one-line version:
+**And the international-level one-line version:**
 
 ☿ Mercury Protocol™ is a sovereign-in-state, human-governed deterministic synthetic-intelligence system that preserves its own memory, evidence, chronology, rules, provenance, and decision boundary while reducing every external model, network, tool, and computational service to an optional replaceable peripheral.
 
-🜁 AIR · 🜄 WATER · 🜃 EARTH · 🜂 FIRE · 🜔 SALT
+**🜁 AIR · 🜄 WATER · 🜃 EARTH · 🜂 FIRE · 🜔 SALT**
 
-☿ MERCURY PROTOCOL™ — THE MODEL MAY SPEAK. MERCURY DECIDES WHAT BECOMES REAL.
-
+**☿ MERCURY PROTOCOL™ — THE MODEL MAY SPEAK. MERCURY DECIDES WHAT BECOMES REAL.**

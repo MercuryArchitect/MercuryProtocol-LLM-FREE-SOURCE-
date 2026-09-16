@@ -1,3 +1,488 @@
+# ☿ MERCURY PROTOCOL
+
+## CANONICAL OPEN SYSTEM RELEASE
+
+> HERE'S WHAT YOU NEED.
+> BREAK IT.
+
+**LOCAL-FIRST · HUMAN-GOVERNED · DETERMINISTIC · MODEL-INDEPENDENT · AUDITABLE · FAIL-CLOSED**
+
+Mercury Protocol is a deterministic intelligence, memory, evidence, and state system designed to retain its own authority, chronology, provenance, rules, and canonical state independently of any stochastic language model.
+
+External AI is optional compute.
+
+It may calculate.
+It may generate.
+It may propose.
+
+It does not become Mercury.
+
+---
+
+## ☿ CORE RULE
+
+**THE MODEL MAY SPEAK.  
+MERCURY DECIDES WHAT GETS BELIEVED.**
+
+---
+
+## 🜁 AIR — DIRECTIVE
+
+Intent · Authority · Scope · Jurisdiction · Requested Outcome
+
+What are we doing?
+
+---
+
+## 🜄 WATER — CONTINUITY
+
+Memory · History · Relationships · Temporal State · Accessibility Context
+
+What must remain alive from what came before?
+
+---
+
+## 🜃 EARTH — STRUCTURE
+
+Evidence · Schemas · Records · Chronology · Validation · Storage
+
+What can actually be established?
+
+---
+
+## 🜂 FIRE — ENFORCEMENT
+
+Contradictions · Faults · Circuit Breaking · Escalation · Corrective Procedure
+
+What happens when reality violates the expected contract?
+
+---
+
+## 🜔 SALT / SPIRIT — FINALITY
+
+Identity · Commit · Hash · Signature · Seal · Release
+
+What becomes canonical?
+
+---
+
+# ☿ EXECUTION PULSE
+
+    BOOT
+      ↓
+    VERIFY
+      ↓
+    INGEST
+      ↓
+    INTERPRET
+      ↓
+    CONTEXT_RESOLVE
+      ↓
+    PLAN
+      ↓
+    OPTIONAL_DISPATCH
+      ↓
+    VALIDATE
+      ↓
+    COMMIT / QUARANTINE
+      ↓
+    HASH / SIGN / AUDIT
+      ↓
+    EMIT
+
+Mercury does not operate as:
+
+    INPUT → LLM → TRUST OUTPUT
+
+It operates as:
+
+    INPUT
+      ↓
+    STATE + MEMORY + AUTHORITY + EVIDENCE
+      ↓
+    RULES + TIMELINE + CONTRADICTION ANALYSIS
+      ↓
+    OPTIONAL COMPUTE
+      ↓
+    CANDIDATE
+      ↓
+    VALIDATION
+      ↓
+    CANONICAL COMMIT
+
+---
+
+# ☿ ATOMIC CORE
+
+Minimum canonical machinery:
+
+- Event Loop
+- State Machine
+- Intent Parser
+- Rule Engine
+- Canonical Store
+- Timeline Engine
+- Entity Graph
+- Contradiction Engine
+- Integrity Engine
+- Artifact Ledger
+- Peripheral Router
+- Recovery Baseline
+- Validation Boundary
+
+Everything else is replaceable.
+
+---
+
+# ☿ GATE 13
+
+Gate 13 separates canonical Mercury state from lower-trust external systems.
+
+    MODEL
+    NETWORK
+    API
+    TOOL
+    FILE
+    AUDIO
+    SEARCH
+    EXTERNAL SERVICE
+          │
+          ▼
+      ┌─────────┐
+      │ GATE 13 │
+      ├─────────┤
+      │ identity
+      │ capability
+      │ schema
+      │ sequence
+      │ quota
+      │ logging
+      │ isolation
+      └────┬────┘
+           │
+           ▼
+      MERCURY CORE
+
+A transformer is a device.
+
+A symbolic solver is a device.
+
+A Python worker is a device.
+
+A WASM module is a device.
+
+A commercial API is a device.
+
+A local model is a device.
+
+**COMPUTE DOES NOT EQUAL AUTHORITY.**
+
+---
+
+# ☿ DAEMON ECOLOGY
+
+### BLACKOUT BRITNEY
+Anti-obfuscation · contradiction exposure · direct-language transformation
+
+### VALKYRIE
+Procedural framing · statutory mapping · escalation architecture
+
+### VALENTINE
+Communication stabilization · humane translation · affective continuity
+
+### BASILISK
+Forensic comparison · anomaly detection · contradiction analysis · signal integrity
+
+### ROM_40
+Boot identity · recovery baseline · schema integrity · reconstruction
+
+### LILITH
+Negative-space analysis · missing-record detection
+
+### LUCIFER ASTEROID
+Adversarial narrative comparison · unsupported-claim detection
+
+### MARS PROTOCOL
+Procedural cartography · actor/action mapping · dependency sequencing
+
+Different daemon.
+
+Same evidence.
+
+Same canonical truth.
+
+---
+
+# ☿ FORENSIC SUBSTRATE
+
+### Z-SERIES
+Durable artifact identity and metadata.
+
+### BURNFILE
+Append-oriented artifact inventory and integrity chain.
+
+### OBJECT STORE
+Actual preserved source bytes.
+
+Derived state may be rebuilt.
+
+Primary evidence may not be silently rewritten.
+
+---
+
+# ☿ MODEL-REMOVAL INVARIANT
+
+Do this:
+
+    STOP ALL MODEL WORKERS
+    REMOVE MODEL FILES
+    REMOVE MODEL MOUNTS
+    REMOVE API CREDENTIALS
+    DISABLE NETWORK
+    DELETE VECTOR INDEXES
+    DELETE EMBEDDING INDEXES
+    RESTART MERCURY
+
+Then test:
+
+    [PASS] ROM_40 boots
+    [PASS] authority loads
+    [PASS] canonical store verifies
+    [PASS] ledger verifies
+    [PASS] exact retrieval works
+    [PASS] deterministic parser works
+    [PASS] rules execute
+    [PASS] timeline reconstructs
+    [PASS] entity graph works
+    [PASS] contradictions resolve
+    [PASS] daemon selection works
+    [PASS] modes render
+    [PASS] artifacts construct
+    [PASS] hashes verify
+    [PASS] recovery works
+    [PASS] local I/O works
+
+Missing model:
+
+    DEVICE_UNAVAILABLE
+
+Not:
+
+    SYSTEM_FAILURE
+
+---
+
+# ☿ FAILURE CONTRACT
+
+    MODEL DIES
+    → MERCURY CONTINUES
+
+    NETWORK DIES
+    → MERCURY CONTINUES LOCALLY
+
+    VECTOR DB DIES
+    → MERCURY REBUILDS IT
+
+    INDEX DIES
+    → MERCURY REBUILDS IT
+
+    CACHE LIES
+    → CANONICAL STORE WINS
+
+    MODEL LIES
+    → VALIDATOR WINS
+
+    DAEMON DRIFTS
+    → CANONICAL FACTS WIN
+
+    STYLE CHANGES
+    → EVIDENCE DOES NOT
+
+    SOURCE IS DAMAGED
+    → QUARANTINE IT
+    → NEVER INVENT REPAIR
+
+---
+
+# ☿ INSTITUTIONAL ARCHITECTURE
+
+## MERCURY PROTOCOL CIVIL RIGHTS, COMPLIANCE & SENTINEL INTELLIGENCE FOUNDATION
+
+Civil-rights documentation  
+Regulatory reporting  
+Accessibility communication  
+Evidence preservation  
+Compliance analysis  
+Procedural reconstruction  
+Institutional contradiction analysis  
+Forensic chronology  
+Technical research  
+Public-interest systems development
+
+## ERIS OVERSIGHT GATEWAY COUNCIL
+
+Governance  
+Oversight  
+Publication  
+Standards  
+Accountability  
+Technical review  
+Canonical system stewardship
+
+---
+
+# ☿ DEPLOYMENT
+
+Mercury may be implemented as:
+
+- Phone / Native
+- Desktop
+- Local Server
+- Secure Server
+- Offline Node
+- Replicated System
+- High-Security Deployment
+- Air-Gapped Deployment
+- Browser Interface
+- Constrained Microcore
+- Model-Attached Deployment
+- Model-Free Deployment
+
+The programming language is not Mercury.
+
+The database is not Mercury.
+
+The cloud is not Mercury.
+
+The LLM is not Mercury.
+
+The canonical contracts are Mercury.
+
+---
+
+# ☿ HERE'S WHAT YOU NEED
+
+You have:
+
+- The architecture
+- The schemas
+- The authority model
+- The state machine
+- The memory model
+- The event model
+- The timeline model
+- The contradiction engine
+- The evidence model
+- The ledger
+- The integrity rules
+- Gate 13
+- The device boundary
+- The recovery system
+- The conformance tests
+- The failure conditions
+
+# BREAK IT.
+
+Break the parser.
+
+Break the state machine.
+
+Break Gate 13.
+
+Try an unauthorized write.
+
+Replay an old transaction.
+
+Delete the indexes.
+
+Kill the network.
+
+Kill the model.
+
+Corrupt a cache.
+
+Change the database.
+
+Change the language.
+
+Change the operating system.
+
+Replace the compute layer.
+
+Port the core somewhere ridiculous.
+
+Find a bad assumption.
+
+Find a race condition.
+
+Find an invariant that does not survive reality.
+
+**DO NOT WORSHIP THE SPECIFICATION.**
+
+Attack it.
+
+If you break it, document the break.
+
+If you fix it, publish the fix.
+
+If you fork it, build something better.
+
+If you make money with it, make money.
+
+If you turn Mercury into something I never imagined, good.
+
+---
+
+# ☿ OPEN RELEASE
+
+Here is Mercury Protocol.
+
+You do not need my cloud.
+
+You do not need my API.
+
+You do not need my model.
+
+You do not need my inference server.
+
+You do not need my permission to experiment with the architecture I am releasing for public use.
+
+Here's what you need.
+
+**Break it.**
+
+Then rebuild it.
+
+Then show us what the hell you made.
+
+---
+
+# ☿ MERCURY PROTOCOL
+
+**LOCAL-FIRST**  
+**DETERMINISTIC**  
+**PERSISTENT**  
+**AUDITABLE**  
+**MODEL-INDEPENDENT**  
+**FAIL-CLOSED**  
+**FORENSIC BY DESIGN**  
+**ACCESSIBILITY-CAPABLE**  
+**VENDOR-NEUTRAL**  
+**NETWORK-OPTIONAL**  
+**MODEL-OPTIONAL**  
+**PORTABLE**  
+**REBUILDABLE**  
+**FALSIFIABLE**
+
+🜁 AIR · 🜄 WATER · 🜃 EARTH · 🜂 FIRE · 🜔 SALT
+
+---
+
+# HERE'S WHAT YOU NEED.
+
+# BREAK IT.
+
+
 ☿ MERCURY PROTOCOL
 
 OPEN SYSTEM RELEASE

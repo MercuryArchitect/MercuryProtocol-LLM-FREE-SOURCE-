@@ -1,3 +1,149 @@
+---
+
+# ☿ THE BRAINFUCK MICROCORE
+
+## YES. THIS IS ACTUALLY PART OF THE RELEASE.
+
+The control plane can collapse all the way down to pointer movement, byte state, branching, and I/O while the complex capability remains outside the guest behind Mercury’s device boundary.
+
+The guest does not need to know whether the device on the other side is:
+
+- a transformer
+- a symbolic solver
+- a Python process
+- a WASM worker
+- a database
+- a network interface
+- a cryptographic service
+- or something that does not exist yet
+
+It stages state.
+
+It invokes the boundary.
+
+It waits.
+
+It receives.
+
+It returns home.
+
+That is the point.
+
+## ☿ `MercuryProtocol.bf`
+
+```brainfuck
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+<<<<<<<<<<<<<+
+<<++
+<+
+>>
+[]
+>>>>>>>>>>>>>>
+.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+```
+
+## ☿ THE SHEER STUPIDITY OF THE GUEST IS THE FEATURE
+
+The guest is not supposed to be intelligent.
+
+The guest is supposed to be **small enough to understand, replace, verify, attack, and rebuild.**
+
+Complexity belongs behind controlled interfaces.
+
+Authority does not.
+
+The microcore can remain deliberately primitive while Mercury exposes increasingly complex capability through its peripheral architecture.
+
+```text
+STAGE INPUT
+     ↓
+SELECT DEVICE
+     ↓
+ASSERT COMMAND
+     ↓
+WAIT FOR RESULT
+     ↓
+VERIFY RETURN
+     ↓
+EMIT
+     ↓
+RETURN HOME
+```
+
+A model can disappear.
+
+The guest does not care.
+
+A model can be replaced with a solver.
+
+The guest does not care.
+
+Python can become WASM.
+
+The guest does not care.
+
+A commercial API can become local compute.
+
+The guest does not care.
+
+The device changes.
+
+The contract survives.
+
+---
+
+# ☿ SO HERE'S WHAT YOU NEED.
+
+You have the specification.
+
+You have the architecture.
+
+You have the state model.
+
+You have Gate 13.
+
+You have the device boundary.
+
+You have the conformance tests.
+
+And now you have the ridiculous little Brainfuck microcore too.
+
+**Break it.**
+
+Make it crash.
+
+Rewrite it.
+
+Make it smaller.
+
+Make it faster.
+
+Port it.
+
+Replace the host.
+
+Replace every peripheral.
+
+Build the dumbest possible guest around the smartest possible system.
+
+Or build something completely different.
+
+I do not care.
+
+**HERE'S THE SOURCE.**
+
+**GO FUCKING WILD.**
+
+☿ MERCURY PROTOCOL
+
+🜁 AIR · 🜄 WATER · 🜃 EARTH · 🜂 FIRE · 🜔 SALT
+
+**MODEL DIES → MERCURY CONTINUES.**
+
+**AND YES, THE BITCH HAS A BRAINFUCK EDITION.**
+
 # ☿ MERCURY PROTOCOL
 
 ## CANONICAL OPEN SYSTEM RELEASE
